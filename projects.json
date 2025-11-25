@@ -1,7 +1,7 @@
 [
   {
     "Id": 1,
-    "Img": "data/projects-images/montando-lanche.png",
+    "Img": "montando-lanche.png",
     "Title": "Montando o lanche",
     "Description": "introdução ao Vue framework com bootstrap via CDN. esse projeto ultiliza vue com options API, via link, dispensando o uso local de node modules.",
     "Tech": [ "vue", "javascript", "bootstrap", "web" ],
@@ -10,7 +10,7 @@
   },
   {
     "Id": 2,
-    "Img": "data/projects-images/swagger-exemple.png",
+    "Img": "swagger-exemple.png",
     "Title": "API Contatos",
     "Description": "esse projeto de introdução ao .NET framework permite um CRUD de contatos com banco de dados local json-server.",
     "Tech": [ "dotnet", "web"],
@@ -19,7 +19,7 @@
   },
   {
     "Id": 3,
-    "Img": "data/projects-images/screenshot-lista-de-tarefas-ASP.NET-mvc.png",
+    "Img": "screenshot-lista-de-tarefas-ASP.NET-mvc.png",
     "Title": "Todo List",
     "Description": "Projeto para gerenciar tarefas, desenvolvido em ASP.NET MVC com Entity Framework e SQLite. As seguintes funcionalidades estão disponiveis: Adicionar novas tarefas com título e data, listar todas as tarefas cadastradas, editar tarefas, marcar como concluídas e validação de campos obrigatórios.",
     "Tech": ["dotnet", "sql", "web"],
@@ -28,7 +28,7 @@
   },
   {
     "Id": 4,
-    "Img": "data/projects-images/spotfy-react.png",
+    "Img": "spotfy-react.png",
     "Title": "Spotfy UI",
     "Description": "Web app em react que simula a interface de usúario spotfy, conectado à um banco de dados mongoDB, músicas são executadas de forma aleatória.",
     "Tech": [ "react", "javascript", "web" ],
@@ -37,7 +37,7 @@
   },
   {
     "Id": 5,
-    "Img": "data/projects-images/App-colaborador.png",
+    "Img": "App-colaborador.png",
     "Title": "App Colaborador",
     "Description": "Aplicativo multiplataforma construido em net maui, permite cadastro, edição e exclisão de lista de colaboradores, contendo nome, email, salário e data do inicio. O objetivo foi aprender desenvolver um app android e windows com suporte a banco de dados local e arquitetura MVVM.",
     "Tech": [ ".net maui", "sql", "android", "windows" ],
